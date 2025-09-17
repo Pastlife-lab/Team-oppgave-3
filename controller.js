@@ -12,7 +12,7 @@ function addToList() {
 
         counter++;
     }else {
-        alert("Alle delene er plukket opp!");
+        alert("You collected all parts!");
     }
  }
 
