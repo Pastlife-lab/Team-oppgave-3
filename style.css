@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: dimgray;
+}
+
+button {
+    background-color: darkgoldenrod;
+    color: aliceblue;
+}
+
+.car {
+    width: 500px;
+}
